@@ -30,7 +30,7 @@ public class Main {
                 decompressed += segment;
             }
 
-            cur += segmentLen + 4;
+            cur += segmentLen + len.length() + mul.length() + 2;;
         }
 
         System.out.println("The decompressed signature:\n" + decompressed);
