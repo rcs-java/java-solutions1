@@ -18,4 +18,23 @@ public class Main {
 
         System.out.println("Name is palindromic!");
     }
+//
+//    public static void main(String[] args) {
+//        String input, reverse = "";
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("Help us to create a brand name! We want to use a palindrome.");
+//
+//        input = sc.nextLine();
+//        input = input.toLowerCase();
+//
+//        int length = input.length();
+//
+//        for (int i = length - 1; i >= 0; i--)
+//            reverse = reverse + input.charAt(i);
+//
+//        if (input.equals(reverse))
+//            System.out.println("It is a palindrome.");
+//        else
+//            System.out.println("It is not a palindrome.");
+//    }
 }
