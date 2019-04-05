@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6099f372-2d26-4fb0-a1e5-063b5161f288" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../task7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../task7/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="10" lean-forward="true" selection-end-line="28" />
+              <caret line="10" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -129,7 +129,7 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="10" lean-forward="true" selection-end-line="28" />
+          <caret line="10" selection-end-line="28" />
         </state>
       </provider>
     </entry>
