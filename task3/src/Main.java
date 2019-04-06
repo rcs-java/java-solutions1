@@ -13,7 +13,7 @@ public class Main {
             int sum = prev + current;
             prev = current;
             current = sum;
-            System.out.print(", " + current);
+            System.out.print(", " + sum);
         }
     }
 }
